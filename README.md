@@ -4,7 +4,7 @@
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
-![Paritosh's Github Stats](https://github-readme-stats.vercel.app/api?username=ParitoshKadam9&theme=radical)
+[![My Github Stats](https://streak-stats.demolab.com/?user=ParitoshKadam9&theme=dark)](https://git.io/streak-stats)
 
 <!---
 ParitoshKadam9/ParitoshKadam9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
