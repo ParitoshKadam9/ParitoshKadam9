@@ -5,6 +5,7 @@
 - 📫 How to reach me ... -->
 
 [![My Github Stats](https://streak-stats.demolab.com/?user=ParitoshKadam9&theme=dark)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ParitoshKadam9&layout=compact)](https://github.com/Paritoshkadam9/github-readme-stats)
 
 <!---
 ParitoshKadam9/ParitoshKadam9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
