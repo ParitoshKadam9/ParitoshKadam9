@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paritosh 
 - 👀 I’m interested in working with Vision, Robotics and control along side Software Development, Algorithms and Neural Networks.
-- 🌱 I’m currently learning advanced algorithms in localization and computer vision along side operating systems, computer architecture and applied deep learning.
+- 🌱 I’m currently learning advanced algorithms in localization and computer vision along side operating systems, computer architecture and applied AI.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
 
