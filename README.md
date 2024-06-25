@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Paritosh 
-- 👀 I’m interested in working with Generative AI, Software Development, Path Planning Algorithms and robotics.
+- 👀 I’m interested in working with Generative AI, Software Development & Data Science.
 - 🌱 I’m currently learning about GANs, LLMs, vector databases and advanced localization algorithms.
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... -->
